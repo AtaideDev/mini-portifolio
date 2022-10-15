@@ -1,11 +1,14 @@
 *{
-    font-family: 'VT323', monospace;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 ul{
+    list-style: none;
+}
+
+li{
     list-style: none;
 }
 
