@@ -74,12 +74,12 @@ body {
   background-color: #414141;
 }
 
-.informacoes-perfil .informacoes-pessoais {
+.informacoes-perfil .informacao {
   min-height: 16.2rem;
   padding: 1rem;
   display: none;
 }
-.informacoes-perfil .informacoes-pessoais.selecionado {
+.informacoes-perfil .informacao.selecionado {
   display: block;
 }
 
@@ -136,6 +136,3 @@ body {
   background-color: #545454;
 }
 
-.informacao{
-  display: none;
-}
